@@ -1,0 +1,6 @@
+.env
+/.vscode
+/node_modules
+/dist
+**/config/hosts.json
+*.log
